@@ -1,0 +1,19 @@
+Map ()
+filter()
+lambda()list()
+set()find()reverse()reversed()index()isalpha()isalnum()old
+Char
+startswith()count()islower()
+isupper().upper().lower().capitalize().sort()sorted(reverse=true) (if needed use 2 params)yield()dict()tuple()‘’.join()[*element]
+
+
+list comprehensionlambda
+indexing (list , string )
+insert()
+append()
+add()
+get()
+keys()
+values()
+items()
+extend()
